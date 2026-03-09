@@ -21,4 +21,4 @@ Tableau
 - AI-related roles show strong compensation growth across experience levels
 
 ## Tableau Dashboard
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard/Dashboard.png)
